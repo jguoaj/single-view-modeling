@@ -8,7 +8,7 @@ This project is to create 3D texture-mapped models from a single image using the
 
 
 ### Methodology
-1. Calculate the vanishing points by **Bob collins' algorithm**.
+1. Calculate the vanishing points by **Bob collins' algorithm**
 2. Calculate the Projective matrix, where the scales are computed with reference points and vanishing points
 3. Use Homograph Matrix to get the texture map (for simplicity, we directly "hardcode" points this time)
 4. Mark Interesing points and get 3D coordinates
@@ -52,7 +52,7 @@ Source Image
 Texture Maps
 
 <img src = "./SingleViewModel/result/rubik/corner1.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/corner2.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/corner3.bmp" width = "20%" height = "70%">
-<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "20%" height = "5%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "20%" height = "130%">
+<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "14%" height = "3%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "20%" height = "130%">
 
 Results
 
@@ -65,7 +65,7 @@ Source Image
 
 Texture Maps
 
-<img src = "./SingleViewModel/result/painting/deskleftside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/rightleg.jpg" width = "6%" height = "3%"><img src = "./SingleViewModel/result/painting/leftlegfront.jpg" width = "6%" height = "3%">
+<img src = "./SingleViewModel/result/painting/deskleftside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/rightleg.jpg" width = "6%" height = "2%"><img src = "./SingleViewModel/result/painting/leftlegfront.jpg" width = "6%" height = "2%">
 <img src = "./SingleViewModel/result/painting/deskrightslant.jpg" width = "6%" height = "12%"><img src = "./SingleViewModel/result/painting/deskrightside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/Hxy_image.jpg" width = "20%" height = "100%">
 
 
