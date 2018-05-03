@@ -38,7 +38,7 @@ Source Image
 
 Texture Maps
 
-<img src = "./SingleViewModel/result/jixin'sbox/xy_patch.jpg" width = "33%" height = "100%"><img src = "./SingleViewModel/result/jixin'sbox/yz_patch.jpg" width = "33%" height = "36%"><img src = "./SingleViewModel/result/jixin'sbox/xz_patch.jpg" width = "33%" height = "100%">
+<img src = "./SingleViewModel/result/jixin'sbox/xy_patch.jpg" width = "33%" height = "100%"><img src = "./SingleViewModel/result/jixin'sbox/yz_patch.jpg" width = "33%" height = "20%"><img src = "./SingleViewModel/result/jixin'sbox/xz_patch.jpg" width = "33%" height = "100%">
 
 Results
 
@@ -52,7 +52,7 @@ Source Image
 Texture Maps
 
 <img src = "./SingleViewModel/result/rubik/corner1.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/corner2.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/corner3.bmp" width = "33%" height = "100%">
-<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "33%" height = "20%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "25%" height = "100%">
+<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "33%" height = "10%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "25%" height = "100%">
 
 Results
 
@@ -65,7 +65,7 @@ Source Image
 
 Texture Maps
 
-<img src = "./SingleViewModel/result/painting/deskleftside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/rightleg.jpg" width = "6%" height = "5%"><img src = "./SingleViewModel/result/painting/leftlegfront.jpg" width = "6%" height = "5%">
+<img src = "./SingleViewModel/result/painting/deskleftside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/rightleg.jpg" width = "6%" height = "3%"><img src = "./SingleViewModel/result/painting/leftlegfront.jpg" width = "6%" height = "3%">
 <img src = "./SingleViewModel/result/painting/deskrightslant.jpg" width = "6%" height = "12%"><img src = "./SingleViewModel/result/painting/deskrightside.jpg" width = "6%" height = "10%"><img src = "./SingleViewModel/result/painting/Hxy_image.jpg" width = "20%" height = "100%">
 
 
