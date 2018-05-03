@@ -12,7 +12,7 @@ This project is to create 3D texture-mapped models from a single image using the
 2. Calculate the Projective matrix, where the scales are computed with reference points and vanishing points
 3. Use Homograph Matrix to get the texture map (for simplicity, we directly "hardcode" points this time)
 4. Mark Interesing points and get 3D coordinates
-<img src = "./SingleViewModeling/img/heightCal.png" width = "40%" height = "40%">
+<img src = "./img/heightCal.png" width = "40%" height = "40%">
 
 5. Generate VMRL
 
