@@ -8,13 +8,13 @@ This project is to create 3D texture-mapped models from a single image using the
 
 
 ### Methodology
-1. calculate the vanishing points by **Bob collins' algorithm**.
+1. Calculate the vanishing points by **Bob collins' algorithm**.
 2. Calculate the Projective matrix, where the scales are computed with reference points and vanishing points
 3. Use Homograph Matrix to get the texture map (for simplicity, we directly "hardcode" points this time)
 4. Mark Interesing points and get 3D coordinates
 <img src = "./img/heightCal.png" width = "40%" height = "40%">
 
-5. Generate VMRL
+5. Generate VMRL model
 
 ### Results
 
@@ -51,8 +51,8 @@ Source Image
 
 Texture Maps
 
-<img src = "./SingleViewModel/result/rubik/corner1.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/corner2.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/corner3.bmp" width = "33%" height = "100%">
-<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "33%" height = "100%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "33%" height = "10%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "25%" height = "100%">
+<img src = "./SingleViewModel/result/rubik/corner1.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/corner2.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/corner3.bmp" width = "20%" height = "70%">
+<img src = "./SingleViewModel/result/rubik/face_corner.bmp" width = "20%" height = "70%"><img src = "./SingleViewModel/result/rubik/left_top.png" width = "20%" height = "5%"><img src = "./SingleViewModel/result/rubik/face_mid.bmp" width = "20%" height = "130%">
 
 Results
 
