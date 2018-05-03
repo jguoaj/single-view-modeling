@@ -38,7 +38,7 @@ Source Image
 
 Texture Maps
 
-<img src = "./SingleViewModel/result/jixin'sbox/xy_patch.jpg" width = "33%" height = "100%"><img src = "./SingleViewModel/result/jixin'sbox/yz_patch.jpg" width = "33%" height = "20%"><img src = "./SingleViewModel/result/jixin'sbox/xz_patch.jpg" width = "33%" height = "100%">
+<img src = "./SingleViewModel/result/jixin'sbox/xy_patch.jpg" width = "20%" height = "80%"><img src = "./SingleViewModel/result/jixin'sbox/yz_patch.jpg" width = "20%" height = "8%"><img src = "./SingleViewModel/result/jixin'sbox/xz_patch.jpg" width = "20%" height = "80%">
 
 Results
 
