@@ -8,10 +8,10 @@ This project is to create 3D texture-mapped models from a single image using the
 
 
 ### Methodology
-1. Calculate the vanishing points by **Bob collins' algorithm**
+1. Calculate the vanishing points by **Bob Collins' algorithm**
 2. Calculate the Projective matrix, where the scales are computed with reference points and vanishing points
 3. Use Homograph Matrix to get the texture map (for simplicity, we directly "hardcode" points this time)
-4. Mark Interesing points and get 3D coordinates
+4. Mark interesting points and get 3D coordinates
 <img src = "./img/heightCal.png" width = "40%" height = "40%">
 
 5. Generate VMRL model
